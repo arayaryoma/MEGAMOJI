@@ -21,7 +21,7 @@
     "vue": "^3.1.4"
   },
   "devDependencies": {
-    "@primer/css": "^17.2.1",
+    "@primer/css": "^17.3.0",
     "@types/color-convert": "^2.0.0",
     "@types/css-font-loading-module": "^0.0.6",
     "@types/google.analytics": "^0.0.42",
